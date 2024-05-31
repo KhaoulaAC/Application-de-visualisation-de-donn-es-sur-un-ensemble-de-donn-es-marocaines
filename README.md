@@ -7,3 +7,24 @@ L'application fait appel au serveur Bokeh pour relier Python au navigateur où e
 1. Choisissez un ensemble de données marocaines dans le domaine de votre choix (économie, santé, éducation, réseaux sociaux, etc.).
 2. Utilisez Pandas ou un autre outil d'exploration de données pour lire et explorer l'ensemble de données. Décrivez l'ensemble de données dans un notebook Jupyter.
 3. Créez l'application de visualisation de données avec Bokeh sous forme d'un tableau de bord, en incluant plusieurs graphiques et interactions.
+## Dataset
+Le dataset utilisé dans cette application provient des objectifs du millénaire pour le développement en Afrique et contient les colonnes suivantes :
+- CountryName
+- Country
+- GoalName
+- Goal
+- IndicatorName
+- Indicator
+- Social GroupName
+- Social Group
+- Units
+- Scale
+- Frequency
+- Date
+- Value
+
+## Prérequis
+- Python 3.x
+- Les bibliothèques Python suivantes :
+  - pandas
+  - bokeh
