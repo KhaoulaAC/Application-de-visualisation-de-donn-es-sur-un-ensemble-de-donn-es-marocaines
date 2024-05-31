@@ -1,4 +1,4 @@
-# Application-de-visualisation-de-donn-es-sur-un-ensemble-de-donn-es-marocaines
+# Application-de-visualisation-de-données-sur-un-ensemble-de-données-marocaines
 ## Description du projet
 Le but de ce projet, qui doit être achevé en mai 2024, est de concevoir une application interactive pour visualiser des données en utilisant un ensemble de données marocaines. L'application est développée en utilisant Bokeh, un outil performant qui offre la possibilité de concevoir des applications de visualisation de données interactives en Python. 
 ## Comment fonctionne l'application
